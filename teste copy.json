@@ -1,0 +1,36 @@
+{
+    "nome": "João",
+    "idade": 30,
+    "endereco": {
+        "rua": "Rua das Flores",
+        "numero": 123,
+        "cidade": "São Paulo",
+        "estado": "SP",
+        "pais": "Brasil"
+    },
+    "hobbies": ["futebol", "leitura", "música"],
+    "trabalho": {
+        "empresa": "XYZ",
+        "posicao": "Engenheiro de Software",
+        "departamento": {
+            "nome": "Desenvolvimento",
+            "localizacao": "Andar 3"
+        }
+    },
+    "familia": {
+        "conjuge": {
+            "nome": "Maria",
+            "idade": 28
+        },
+        "filhos": [
+            {
+                "nome": "Pedro",
+                "idade": 5
+            },
+            {
+                "nome": "Ana",
+                "idade": 3
+            }
+        ]
+    }
+}
